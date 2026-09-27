@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560">
+    <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8ed"/><stop offset="1" stop-color="#ead7c1"/></linearGradient></defs>
+    <rect width="800" height="560" fill="url(#g)"/><ellipse cx="400" cy="420" rx="250" ry="42" fill="#7d5b4325"/>
+    <circle cx="400" cy="280" r="150" fill="#D3A36D" stroke="#6C4933" stroke-width="12"/>
+    <path d="M270 300 Q400 180 530 300" fill="none" stroke="#6C4933" stroke-width="24" stroke-linecap="round" opacity=".7"/>
+    <circle cx="350" cy="260" r="18" fill="#6C4933"/><circle cx="450" cy="260" r="18" fill="#6C4933"/>
+    <path d="M350 330 Q400 370 450 330" fill="none" stroke="#6C4933" stroke-width="12" stroke-linecap="round"/>
+    <text x="400" y="510" text-anchor="middle" font-family="Arial" font-size="28" fill="#6b4a37">Fig &amp; Flour • fresh bake</text>
+    </svg>
